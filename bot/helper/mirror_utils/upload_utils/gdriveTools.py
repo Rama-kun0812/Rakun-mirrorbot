@@ -478,9 +478,9 @@ class GoogleDriveHelper:
                     content += f'<b> | <a href="https://telegra.ph/{self.path[nxt_page]}">Next</a></b>'
                     nxt_page += 1
             Telegraph(access_token=TELEGRAPH_TOKEN).edit_page(path = self.path[prev_page],
-                                 title = 'Akeno Mirror Bot Search',
-                                 author_name='Akeno Mirror Bot',
-                                 author_url='https://github.com/Satriouz/akeno-mirrorbot',
+                                 title = 'Rakun Mirror Bot Search',
+                                 author_name='Rakun Mirror Bot',
+                                 author_url='https://github.com/Rama-kun0812/Rakun-mirrorbot',
                                  html_content=content)
         return
 
@@ -556,9 +556,9 @@ class GoogleDriveHelper:
                     return "No Result Found ❌", None
                 for content in self.telegraph_content:
                     self.path.append(Telegraph(access_token=TELEGRAPH_TOKEN).create_page(
-                        title='Akeno Mirror Bot Search',
-                        author_name='Akeno Mirror Bot',
-                        author_url='https://github.com/Satriouz/akeno-mirrorbot',
+                        title='Rakun Mirror Bot Search',
+                        author_name='Rakun Mirror Bot',
+                        author_url='https://github.com/Rama-kun0813/Rakun-mirrorbot',
                         html_content=content
                     )['path'])
                 self.num_of_path = len(self.path)
