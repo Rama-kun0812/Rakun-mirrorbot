@@ -1,6 +1,6 @@
-[![Akeno](https://telegra.ph/file/5a63f0002646a731203bf.png)](https://t.me/ParrotOmoshiroi)
+[![Akeno](https://telegra.ph/file/4632ea43185f4ee8d77f9.jpg)](https://t.me/ParrotOmoshiroi)
 
-# Akeno Mirror Bot
+# Rakun Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Features supported:
@@ -46,7 +46,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/Satriouz/akeno-mirrorbot mirrorbot/
+git clone https://github.com/Rama-kun0812/Rakun-mirrorbot mirrorbot/
 cd mirrorbot
 ```
 
