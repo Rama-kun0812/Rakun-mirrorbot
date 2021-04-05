@@ -1,15 +1,15 @@
 {
-    "name": "akeno-mirrorbot ",
+    "name": "Rakun-mirrorbot ",
     "description": "Telegram mirror bot with python",
-    "logo": "https://telegra.ph/file/5a63f0002646a731203bf.png",
+    "logo": "https://telegra.ph/file/4632ea43185f4ee8d77f9.jpg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/Satriouz/akeno-mirrorbot",
-    "website": "https://t.me/ParrotOmoshiroi",
-    "success_url": "https://github.com/Satriouz/akeno-mirrorbot/blob/master/README.md",
+    "repository": "https://github.com/Rama-kun0812/Rakun-mirrorbot",
+    "website": "https://t.me/@RaKun_0812",
+    "success_url": "https://github.com/Rama-kun0812/Rakun-mirrorbot/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
