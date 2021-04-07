@@ -1,4 +1,4 @@
-[![Akeno](https://telegra.ph/file/4632ea43185f4ee8d77f9.jpg)](https://t.me/ParrotOmoshiroi)
+[![Rakun](https://telegra.ph/file/4632ea43185f4ee8d77f9.jpg)](https://t.me/ParrotOmoshiroi)
 
 # Rakun Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
